@@ -1,1 +1,0 @@
-Must have safeBot before each command
